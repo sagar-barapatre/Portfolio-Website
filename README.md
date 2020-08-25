@@ -1,11 +1,11 @@
-# MuLx10.github.io
 
-![img](https://github.com/MuLx10/MuLx10.github.io/raw/master/img/Wajima.jpg)
+
+
 
 
 MIT License
 
-Copyright (c) 2020 Mehul Kumar Nirala
+Copyright (c) 2020 Sagar Barapatre
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
